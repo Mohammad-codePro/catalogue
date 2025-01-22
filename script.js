@@ -5,7 +5,7 @@ const products = [
         name: "Hoodie",
         category: "Vetements",
         description: "Hoodie de bonne qualite.",
-        price: 699.99,
+        price: 24.99,
         image: "assets/images/product1.jpg"
     },
     {
@@ -13,7 +13,7 @@ const products = [
         name: "Hoodie",
         category: "Vetements",
         description: "Hoodie de bonne qualite.",
-        price: 1199.99,
+        price: 24.99,
         image: "assets/images/product2.jpg"
     },
     {
@@ -21,7 +21,7 @@ const products = [
         name: "Hoodie",
         category: "Vetements",
         description: "Hoodie de bonne qualite.",
-        price: 199.99,
+        price: 24.99,
         image: "assets/images/product3.jpg"
     }
 ];
